@@ -19,6 +19,7 @@ The objective of this project is to make employee performance data easier to und
 
 ## 🖥️ Dashboard Preview
 
+![Employee Performance Dashboard](Employee%20Performance%20Dashboard.png)
 
 ## 📊 Key Performance Indicators (KPIs)
 
